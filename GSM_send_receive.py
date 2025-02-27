@@ -197,7 +197,7 @@ def start_call(cus_phone):
     time.sleep (5)
     return response
 
-#cus_phone = '+84827894448'
+#cus_phone = '+8482789***'
 # ser = serial.Serial("COM7", baudrate=9600, timeout=15)  # timeout affects call duration and waiting for response currently 30sec
 #print(start_call(cus_phone))
 # ser.close()
